@@ -112,7 +112,7 @@ Different type of plots for actual vs predicted values like pointplot, scatter p
 
 ![19](https://github.com/user-attachments/assets/f9f1f4e7-7e4e-4d49-9a44-a925304adce8)
 
-## Dependencies
+## Final Conclusion
 
 Based on the feature importance values provided for mobile price prediction, here’s a conclusion drawn:
 1.  MEMORY: Memory capacity (likely referring to internal storage) is the most influential feature for predicting mobile phone prices. Phones with higher storage capacities generally command higher prices.
